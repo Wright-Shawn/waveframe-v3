@@ -28,7 +28,7 @@ The growth factor \( D(z) \) is computed from perturbation integration over the 
 
 ---
 
-## ⚠️ Observations
+## Observations
 
 - Entropic model predicts **suppressed growth**, particularly at \( z < 1 \)
 - Values fall below 0.2 at late times — inconsistent with current structure data
@@ -38,7 +38,7 @@ The growth factor \( D(z) \) is computed from perturbation integration over the 
 
 ---
 
-## 🧩 Implications
+## Implications
 
 The mismatch here is critical. It implies that:
 
