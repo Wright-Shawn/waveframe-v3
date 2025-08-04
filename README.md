@@ -23,25 +23,14 @@ Waveframe 3.0 departs from scalar field cosmology by grounding cosmic expansion 
 
 ## Key Equations
 
-- Horizon Entropy:
-  
-  \[
-  S(t) = \frac{π}{H(t)^2}
-  \]
+- **Horizon Entropy:**  
+  S(t) = π / H(t)²
 
-- Entropy Growth Postulate:
+- **Entropy Growth Postulate:**  
+  dS/dt = γ(z) → Ḣ = −γ(z) · H³ / (2π)
 
-  \[
-  \frac{dS}{dt} = γ(z)
-  \quad \Rightarrow \quad
-  \dot{H} = -\frac{γ(z) H^3}{2π}
-  \]
-
-- Luminosity Distance:
-  
-  \[
-  d_L(z) = (1 + z) \cdot \int_0^z \frac{c}{H(z')} \,dz'
-  \]
+- **Luminosity Distance:**  
+  d_L(z) = (1 + z) · ∫₀ᶻ [c / H(z′)] dz′
 
 ---
 
@@ -54,9 +43,9 @@ Waveframe 3.0 departs from scalar field cosmology by grounding cosmic expansion 
   - [`structure_growth_fsigma8_model.png`](./Figures/structure_growth_fsigma8_model.png)
   - [`structure_growth_fsigma8_overlay.png`](./Figures/structure_growth_fsigma8_overlay.png)
 
-- `Equations/` – Entropic derivations, H(z) formulas, and observational modeling
-- `Theory/` – Interpretive and philosophical background
-- `LICENSE` – MIT license for archival version
+- `Equations/` – Entropic derivations, H(z) formulas, and observational modeling  
+- `Theory/` – Interpretive and philosophical background  
+- `LICENSE` – MIT license for archival version  
 
 ---
 
